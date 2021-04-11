@@ -1,0 +1,10 @@
+https://www.c-sharpcorner.com/article/how-to-generate-qr-code-in-android/
+
+https://www.figma.com/dictionary/bitmap/
+
+https://www.siteground.com/kb/google_free_smtp_server/#:~:text=Outgoing%20Mail%20(SMTP)%20Server%3A,e.g.%20user%40gmail.com)
+
+https://blog.elmah.io/how-to-send-emails-from-csharp-net-the-definitive-tutorial/#:~:text=var%20smtpClient%20%3D%20new%20SmtpClient(%22,subject%22%2C%20%22body%22)%3B
+
+https://www.w3schools.com/howto/howto_js_slideshow.asp
+
